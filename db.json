@@ -1,63 +1,81 @@
-{ "home":{
-	"data": {
-		"data": [{
-			"totalPlaylists": 6.02745618307040320615897144307382404804229736328125,
-			"playlists": [{
-				"owmer": "owmer",
-				"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
-				"totalTracks": 0.80082819046101150206595775671303272247314453125,
-				"name": "name",
-				"description": "description",
-				"id": "id"
+{
+	"home": {
+		"data": {
+			"data": [{
+				"totalPlaylists": 6.02745618307040320615897144307382404804229736328125,
+				"playlists": [{
+					"owmer": "owmer",
+					"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+					"totalTracks": 0.80082819046101150206595775671303272247314453125,
+					"name": "name",
+					"description": "description",
+					"id": "id"
+				}, {
+					"owmer": "owmer",
+					"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+					"totalTracks": 0.80082819046101150206595775671303272247314453125,
+					"name": "name",
+					"description": "description",
+					"id": "id"
+				}, {
+					"owmer": "owmer",
+					"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+					"totalTracks": 0.80082819046101150206595775671303272247314453125,
+					"name": "name",
+					"description": "description",
+					"id": "id"
+				}, {
+					"owmer": "owmer",
+					"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+					"totalTracks": 0.80082819046101150206595775671303272247314453125,
+					"name": "name",
+					"description": "description",
+					"id": "id"
+				}, {
+					"owmer": "owmer",
+					"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+					"totalTracks": 0.80082819046101150206595775671303272247314453125,
+					"name": "name",
+					"description": "description",
+					"id": "id"
+				}],
+				"name": "name"
 			}, {
-				"owmer": "owmer",
-				"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
-				"totalTracks": 0.80082819046101150206595775671303272247314453125,
-				"name": "name",
-				"description": "description",
-				"id": "id"
-			}, {
-				"owmer": "owmer",
-				"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
-				"totalTracks": 0.80082819046101150206595775671303272247314453125,
-				"name": "name",
-				"description": "description",
-				"id": "id"
-			}, {
-				"owmer": "owmer",
-				"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
-				"totalTracks": 0.80082819046101150206595775671303272247314453125,
-				"name": "name",
-				"description": "description",
-				"id": "id"
-			}, {
-				"owmer": "owmer",
-				"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
-				"totalTracks": 0.80082819046101150206595775671303272247314453125,
-				"name": "name",
-				"description": "description",
-				"id": "id"
+				"totalPlaylists": 6.02745618307040320615897144307382404804229736328125,
+				"playlists": [{
+					"owmer": "owmer",
+					"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+					"totalTracks": 0.80082819046101150206595775671303272247314453125,
+					"name": "name",
+					"description": "description",
+					"id": "id"
+				}, {
+					"owmer": "owmer",
+					"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+					"totalTracks": 0.80082819046101150206595775671303272247314453125,
+					"name": "name",
+					"description": "description",
+					"id": "id"
+				}],
+				"name": "name"
 			}],
-			"name": "name"
-		},{
-			"totalPlaylists": 6.02745618307040320615897144307382404804229736328125,
-			"playlists": [{
-				"owmer": "owmer",
-				"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
-				"totalTracks": 0.80082819046101150206595775671303272247314453125,
-				"name": "name",
-				"description": "description",
-				"id": "id"
-			}, {
-				"owmer": "owmer",
-				"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
-				"totalTracks": 0.80082819046101150206595775671303272247314453125,
-				"name": "name",
-				"description": "description",
-				"id": "id"
-			}],
-			"name": "name"
-		}]
-	}
+			"recentlyplayed": {
+				"playlists": [{
+					"owmer": "owmer",
+					"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+					"totalTracks": 0.80082819046101150206595775671303272247314453125,
+					"name": "name",
+					"description": "description",
+					"id": "id"
+				}, {
+					"owmer": "owmer",
+					"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+					"totalTracks": 0.80082819046101150206595775671303272247314453125,
+					"name": "name",
+					"description": "description",
+					"id": "id"
+				}]
+			}
+		}
 	}
 }
