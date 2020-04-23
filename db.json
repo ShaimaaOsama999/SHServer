@@ -1,0 +1,23 @@
+{
+	"data": {
+		"data": [{
+			"totalPlaylists": 6.02745618307040320615897144307382404804229736328125,
+			"playlists": [{
+				"owmer": "owmer",
+				"image": "image",
+				"totalTracks": 0.80082819046101150206595775671303272247314453125,
+				"name": "name",
+				"description": "description",
+				"id": "id"
+			}, {
+				"owmer": "owmer",
+				"image": "image",
+				"totalTracks": 0.80082819046101150206595775671303272247314453125,
+				"name": "name",
+				"description": "description",
+				"id": "id"
+			}],
+			"name": "name"
+		}]
+	}
+}
