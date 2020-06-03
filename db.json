@@ -24,7 +24,7 @@
 						"id": "id"
 					}
 				}, {
-					"type": "playlist",
+					"type": "album",
 					"rowitem": {
 						"owmer": "owmer",
 						"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
@@ -34,7 +34,7 @@
 						"id": "id"
 					}
 				}, {
-					"type": "playlist",
+					"type": "album",
 					"rowitem": {
 						"owmer": "owmer",
 						"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
