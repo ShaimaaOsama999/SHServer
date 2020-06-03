@@ -25,23 +25,23 @@
 					}
 				}, {
 					"type": "album",
-					"rowitem": {
+					"album": {
 						"owmer": "owmer",
-						"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+						"Image_id": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
 						"totalTracks": 0.80082819046101150206595775671303272247314453125,
-						"name": "name",
+						"Album_name": "name",
 						"description": "description",
-						"id": "id"
+						"ID": "id"
 					}
 				}, {
 					"type": "album",
-					"rowitem": {
+					"album": {
 						"owmer": "owmer",
-						"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
+						"Image_id": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
 						"totalTracks": 0.80082819046101150206595775671303272247314453125,
-						"name": "name",
+						"Album_name": "name",
 						"description": "description",
-						"id": "id"
+						"ID": "id"
 					}
 				}, {
 					"type": "playlist",
