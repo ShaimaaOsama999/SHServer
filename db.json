@@ -60,17 +60,6 @@
 								"description": "description",
 								"ID": "id"
 							}
-						},
-						{
-							"type": "playlist",
-							"rowitem": {
-								"owmer": "owmer",
-								"image": "https://i.scdn.co/image/ab67616d00001e0219ab0403aa0de6ee32b101ff",
-								"totalTracks": 0.8008281904610115,
-								"name": "name",
-								"description": "description",
-								"id": "id"
-							}
 						}
 					],
 					"name": "name"
